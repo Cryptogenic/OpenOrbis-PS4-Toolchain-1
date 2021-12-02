@@ -10,6 +10,8 @@ import (
 	"strings"
 )
 
+// Update to run CI
+
 // This constant is important for building!
 //
 // This "mode" constant determines if the tool is treated as a tool to build eboots / SELFs, or if it's used to build
