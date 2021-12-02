@@ -5,7 +5,7 @@ TITLE_ID    := BREW00070
 CONTENT_ID  := IV0000-BREW00070_00-EXCEPTIONSEX0000
 
 # Libraries linked into the ELF.
-LIBS        := -lc -lkernel -lc++
+LIBS        := -lc -lkernel -lc++ -lSceVideoOut
 
 # Additional compile flags, explicitly enable exceptions.
 EXTRAFLAGS  := -fexceptions -fcxx-exceptions
