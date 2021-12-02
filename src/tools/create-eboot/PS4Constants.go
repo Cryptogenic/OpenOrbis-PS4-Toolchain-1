@@ -3,6 +3,8 @@
 
 package main
 
+// Run CI
+
 // SCE-specific ELF types
 const ET_SCE_EXEC_ASLR = 0xFE10
 const ET_SCE_DYNAMIC = 0xFE18
